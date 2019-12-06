@@ -1,0 +1,188 @@
+endScreen images/endScreen.bmp
+winScreen images/youWin.bmp
+
+fountain images/waterFountain1.bmp 255 255 255 0
+fountain images/waterFountain2.bmp 255 255 255 0
+fountain images/waterFountain3.bmp 255 255 255 0
+benchForward images/BenchForward.bmp 255 255 255 0
+benchBackward images/BenchBackward.bmp 255 255 255 0
+
+caveBackground images/caveFloor.bmp
+caveCeiling images/caveCeiling.bmp
+caveCeilingL images/caveCeilingLeftEdge.bmp
+caveCeilingR images/caveCeilingRightEdge.bmp
+caveCeilingB images/caveCeilingBot.bmp
+caveWall images/caveWall.bmp
+caveEntrance images/caveEntrance.bmp
+caveExit images/caveExit.bmp
+
+rockPile images/RockPile.bmp 255 255 255 0
+barrier images/Barrier.bmp 255 255 255 0
+barrier1 images/BarrierExit.bmp 255 255 255 0
+
+BlueBeamUD images/BrightBlueBeamUpDown.bmp 255 174 201 0
+BlueBeamRL images/BrightBlueBeamRightLeft.bmp 255 174 201 0
+
+LaserBlueUp images/LaserBlueUp.bmp 0 0 0 0
+LaserBlueRight images/LaserBlueRight.bmp 0 0 0 0
+LaserBlueDown images/LaserBlueDown.bmp 0 0 0 0
+LaserBlueLeft images/LaserBlueLeft.bmp 0 0 0 0
+
+TreeStump images/TreeStump.bmp 255 255 255 0
+TreeThing images/TreeThing.bmp 255 255 255 0
+
+stonePathLarge images/StonePathLarge.bmp
+stonePathLarge2 images/StonePathLarge2.bmp
+stoneEdgeB images/stoneEdgeB.bmp
+stoneEdgeT images/stoneEdgeT.bmp
+stoneEdgeL images/stoneEdgeL.bmp
+stoneEdgeR images/stoneEdgeR.bmp
+stoneCornerBR images/stoneCornerBR.bmp
+stoneCornerTR images/stoneCornerTR.bmp
+stoneCornerTL images/stoneCornerTL.bmp
+stoneCornerBL images/stoneCornerBL.bmp
+
+DirtPathCornerBL images/DirtPathCornerBL.bmp
+DirtPathCornerBR images/DirtPathCornerBR.bmp
+DirtPathCornerTL images/DirtPathCornerTL.bmp
+DirtPathCornerTR images/DirtPathCornerTR.bmp
+DirtPathSideL images/DirtPathSideL.bmp
+DirtPathSideR images/DirtPathSideR.bmp
+DirtPathMiddleB images/DirtPathMiddleB.bmp
+DirtPathMiddleBot images/DirtPathMiddleBot.bmp
+DirtPathMiddleBotArrow images/DirtPathMiddleBotArrow.bmp
+DirtPathMiddleT images/DirtPathMiddleT.bmp
+DirtPath images/DirtTile.bmp
+DirtPathEnd images/DirtPathMiddleEndL.bmp
+DirtPathEndB images/DirtPathMiddleEndB.bmp
+
+ArrowDown images/DirtTileArrowDown.bmp
+ArrowUp images/DirtTileArrowUp.bmp
+
+Blacksmith images/Blacksmith1.bmp 255 255 255 0
+Blacksmith images/Blacksmith2.bmp 255 255 255 0
+
+DirtPathNarrow images/DirtPathNarrow.bmp
+DirtPathNarrowRotated images/DirtPathNarrowRotated.bmp
+DirtPathNarrowCornerBL images/DirtPathNarrowCornerBL.bmp
+DirtPathNarrowCornerBR images/DirtPathNarrowCornerBR.bmp
+DirtPathNarrowCornerTL images/DirtPathNarrowCornerTL.bmp
+DirtPathNarrowCornerTR images/DirtPathNarrowCornerTR.bmp
+
+campfire images/Campfire1.bmp 255 255 255 0
+campfire images/Campfire2.bmp 255 255 255 0
+campfire images/Campfire3.bmp 255 255 255 0
+campfire images/Campfire4.bmp 255 255 255 0
+campfire images/Campfire5.bmp 255 255 255 0
+
+BasicOre1 images/OreTier1.bmp 255 255 255 0
+
+storeBackground images/StoreBackground.bmp
+storeBackgroundHeader images/StoreBackgroundHeader.bmp
+storeBackgroundHeader2 images/StoreBackgroundHeader2.bmp
+
+grass images/GrassPatch.bmp
+GrassPatchLeaves images/GrassPatchLeaves.bmp
+GrassPatchSmallLeaves images/GrassPatchSmallLeaves.bmp
+
+forestCornerR images/forestCornerR.bmp 255 255 255 0
+forestCornerL images/forestCornerL.bmp 255 255 255 0
+forestMiddle images/forestMiddle.bmp 255 255 255 0
+
+forestCornerBR images/forestCornerBR.bmp 255 255 255 0
+forestCornerBL images/forestCornerBL.bmp 255 255 255 0
+forestMiddleB images/forestMiddleB.bmp 255 255 255 0
+
+KrookTreeTop images/KrookTreeTop.bmp 255 255 255 0
+KrookTreeBottom images/KrookTreeBottom.bmp 255 255 255 0
+Mushroom images/Mushroom.bmp 255 255 255 0
+
+BlackAnvil images/Anvil2.bmp 255 255 255 0
+blacksmithHouse images/blacksmith_house.bmp 200 0 200 0
+
+Tent images/Tent2.bmp 255 255 255 0
+TentSide images/Tent2Side.bmp 255 255 255 0
+
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+
+background_default images/none.bmp
+
+heart images/corazon.bmp 255 255 255 0
+heartSilver images/corazonSilver.bmp 255 255 255 0
+heartGold images/corazonGold.bmp 255 255 255 0
+
+main images/MegaMan_1.bmp 255 255 255 0
+main images/MegaMan_3.bmp 255 255 255 0
+main images/MegaMan_1.bmp 255 255 255 0
+main images/MegaMan_3.bmp 255 255 255 0
+main images/MegaMan_1.bmp 255 255 255 0
+main images/MegaMan_3.bmp 255 255 255 0
+main images/MegaMan_1.bmp 255 255 255 0
+main images/MegaMan_3.bmp 255 255 255 0
+main images/MegaMan_2.bmp 255 255 255 0
+main images/MegaMan_3.bmp 255 255 255 0
+main images/MegaMan_1.bmp 255 255 255 0
+main images/MegaMan_3.bmp 255 255 255 0
+main images/MegaMan_1.bmp 255 255 255 0
+main images/MegaMan_3.bmp 255 255 255 0
+main images/MegaMan_1.bmp 255 255 255 0
+main images/MegaMan_3.bmp 255 255 255 0
+main images/MegaMan_1.bmp 255 255 255 0
+
+mainUpward images/MegaManUp1.bmp 255 255 255 0
+mainUpward images/MegaManUp2.bmp 255 255 255 0
+
+mainLeft images/MegaManLeft1.bmp 255 255 255 0
+mainLeft images/MegaManLeft3.bmp 255 255 255 0
+mainLeft images/MegaManLeft1.bmp 255 255 255 0
+mainLeft images/MegaManLeft3.bmp 255 255 255 0
+mainLeft images/MegaManLeft1.bmp 255 255 255 0
+mainLeft images/MegaManLeft3.bmp 255 255 255 0
+mainLeft images/MegaManLeft1.bmp 255 255 255 0
+mainLeft images/MegaManLeft3.bmp 255 255 255 0
+mainLeft images/MegaManLeft2.bmp 255 255 255 0
+mainLeft images/MegaManLeft3.bmp 255 255 255 0
+mainLeft images/MegaManLeft1.bmp 255 255 255 0
+mainLeft images/MegaManLeft3.bmp 255 255 255 0
+mainLeft images/MegaManLeft1.bmp 255 255 255 0
+mainLeft images/MegaManLeft3.bmp 255 255 255 0
+mainLeft images/MegaManLeft1.bmp 255 255 255 0
+mainLeft images/MegaManLeft3.bmp 255 255 255 0
+mainLeft images/MegaManLeft1.bmp 255 255 255 0
+mainLeft images/MegaManLeft3.bmp 255 255 255 0
+
+mainDown images/MegaManDown1.bmp 255 255 255 0
+mainDown images/MegaManDown2.bmp 255 255 255 0
+
+mainBossR images/BossMechRight1.bmp 255 255 255 0
+mainBossR images/BossMechRight2.bmp 255 255 255 0
+mainBossR images/BossMechRight3.bmp 255 255 255 0
+mainBossL images/BossMechLeft1.bmp 255 255 255 0
+mainBossL images/BossMechLeft2.bmp 255 255 255 0
+mainBossL images/BossMechLeft3.bmp 255 255 255 0
+mainBossU images/BossMechUp1.bmp 255 255 255 0
+mainBossU images/BossMechUp2.bmp 255 255 255 0
+mainBossU images/BossMechUp3.bmp 255 255 255 0
+mainBossD images/BossMechDown1.bmp 255 255 255 0
+mainBossD images/BossMechDown2.bmp 255 255 255 0
+mainBossD images/BossMechDown3.bmp 255 255 255 0
+
+sanHoloR images/SanHoloRight1.bmp 255 255 255 0
+sanHoloR images/SanHoloRight2.bmp 255 255 255 0
+sanHoloR images/SanHoloRight3.bmp 255 255 255 0
+sanHoloR images/SanHoloRight4.bmp 255 255 255 0
+
+sanHoloL images/SanHoloLeft1.bmp 255 255 255 0
+sanHoloL images/SanHoloLeft2.bmp 255 255 255 0
+sanHoloL images/SanHoloLeft3.bmp 255 255 255 0
+sanHoloL images/SanHoloLeft4.bmp 255 255 255 0
+
+YodaMinionR images/BabyYodaRight1.bmp 255 255 255 0
+YodaMinionR images/BabyYodaRight2.bmp 255 255 255 0
+YodaMinionR images/BabyYodaRight3.bmp 255 255 255 0
+
